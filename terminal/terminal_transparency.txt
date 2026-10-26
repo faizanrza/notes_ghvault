@@ -1,0 +1,2 @@
+dconf write /org/gnome/Ptyxis/Profiles/957afc1f61710aaf1512cdf96a747a4e/opacity 0.85
+this no after profile is terminal profile identifier.

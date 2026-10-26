@@ -1,0 +1,3 @@
+-- You can bind jk in insert mode to esc key. 
+-- The ctrl + [ also works as same as esc key.
+-- Hello this is a rough file in which i practicing to use ctrl+[ key as alternative to esc because esc is far away to press readily.
