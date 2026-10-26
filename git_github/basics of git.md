@@ -39,9 +39,17 @@
 4. push them to github.
     **Link your local project to github"
     create a new repository on github
-    copy paste the command from github to your terminal to push an existing repository from the command line
+    and follow the instructions given there to push your project.
+    `git remote add origin https://github.com/your/repo/url`
+    `git branch -M man`
+    `git push -u origin main`
+    all these are one time commands you only need to use then when you pushing for the first time.
 
+    If you set up wrong link then fix it:
+        `git remote set-url origin https://github.com/correct/link`
 
+        Verify the online address the git is pointing to:
+        `git remote -v`
 
 
 
