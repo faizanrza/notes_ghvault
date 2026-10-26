@@ -52,11 +52,14 @@
         `git remote -v`
 
 
-
-
-
-
 ## Daily Git Workflow After Setup
 - `git add .` -> Stages all new changes.
 - `git commit -m "Explain your changes"` -> Saves a snapshot locally.
 - `git push` -> Uploads the changes to GitHub.
+
+
+## Check Status of commits and pushes and other things
+- `git status` : to see If you have unpushed work or uncommited changes.
+- `git log` : to see a timline of all your commits.
+    `git log --online` : more readable.
+- `git diff` : to see the exact code edits you made.
