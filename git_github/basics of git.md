@@ -1,8 +1,8 @@
 # To use git for your project, you need to:  
 1. configure git.  
     **Tell git who you are**:   
-        `git config --global user.name "Your Name"  
-        `git congig --global user.email "youremailaddress"  
+        `git config --global user.name "Your Name"`  
+        `git config --global user.email "youremailaddress"`  
     **Check the username and email**:  
         `git config user.name`  
         `git config user.email`  
